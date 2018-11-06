@@ -1,0 +1,27 @@
+h1:hover{
+    text-align:center;
+    background-color:pink;
+}
+h2:hover{
+    text-align:center;
+    background-color:lightblue;
+}
+pa{
+    display:flex;
+    justify-content:flex-end;
+}
+.second{
+    display:flex;
+    justify-content:center;
+    align-self:flex-end;
+}
+.img{
+    display:flex;
+}
+img{
+    width:200px;
+    height:200px;
+}
+.merch{
+    display:flex;
+}
