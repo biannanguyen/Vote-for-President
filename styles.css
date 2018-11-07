@@ -21,7 +21,20 @@ pa{
 img{
     width:200px;
     height:200px;
+    border:solid lightblue;
 }
 .merch{
     display:flex;
 }
+.gift{
+    display:flex;
+}
+html{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5IGe1NlVRqEMYhRME57r4AfdNwn1WjQmH1G7KcVdIFTzKnintkw");
+    color:white;
+}
+ul{
+    color:pink;
+    text-shadow:black 4px 4px;
+}
+
